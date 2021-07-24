@@ -1,4 +1,4 @@
-# Pythpn-Bulk-Image-Downloader
+# Python-Bulk-Image-Downloader
 
 `Sites To Get Random Photos`
 
